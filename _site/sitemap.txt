@@ -1,11 +1,11 @@
 
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+http://coyle.io/archive.html
+http://coyle.io/atom.xml
+http://coyle.io/categories.html
+http://coyle.io/index.html
+http://coyle.io/pages.html
+http://coyle.io/rss.xml
+http://coyle.io/sitemap.txt
+http://coyle.io/tags.html
 
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+http://coyle.io/lessons/2011/12/29/jekyll-introduction
