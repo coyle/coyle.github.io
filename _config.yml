@@ -7,7 +7,7 @@ gems:
 # Site settings
 title: "Coyle"
 description: > # this means to ignore newlines until "email:"
-   Essays about software, life and anything things
+   Essays about software, life and anything else I find interesting
 
 email: dcoyle87@gmail.com
 #blog logo
