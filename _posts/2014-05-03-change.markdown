@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Change"
+date:   2014-05-03 12:00:00
+categories: life
+tags: featured
+image: /assets/images/computers.jpg
+---
+
+> “The Only Thing That Is Constant Is Change.” ―Heraclitus
+
+The above quote has never held more truth than it has the preceding three years of my life. I married my best friend, graduated college, moved five times, worked at four different companies and am now expecting a child. The person I am today, would be unrecognizable to the person I was only three years ago.
+
+Accepting and welcoming change with open arms was a definite paradigm shift. Yet, through all of the events of the last few years, I would say it is the top skill I have acquired.
+
+Change is an ever present component of the tech startup community. Noticing something that needs to be changed and changing it, is the very essence of what creates value for startups. Manual processes and tasks that are being done by people, that continue to do them the same way because, "that's the way it's done", are the people corporate America are built by. Assembly line workers, that come to work at 9am, do their specific tasks until 5pm, Monday-Friday, fifty weeks a year, until they retire and get that gold watch for their years of loyalty.
+
+Embracing change, asking how can I do this better?, How can I do this more efficiently, and best of all, How can I leverage technology to not do this at all?, is the defining characteristic of the Entrepreneur. In a tech startup, the entire team needs to value change, if they are to survive. Pivoting quickly and changing direction midstream, is what allows the startup to out maneuver the big players. If even one team member doesn't like change and fights changing, it will slow down growth and could cause the startup itself to be out maneuvered.
+
+Learn to love change, see change as valuable and leverage change to grow.
+

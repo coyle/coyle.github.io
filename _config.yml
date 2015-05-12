@@ -3,17 +3,17 @@ markdown: redcarpet
 highlighter: pygments
 gems:
   - jemoji
-  
+
 # Site settings
 title: "Coyle"
 description: > # this means to ignore newlines until "email:"
-   Essays about software, life and anything else I find interesting
+   Essays about software, life and interesting stuff
 
 email: dcoyle87@gmail.com
 #blog logo
 logo: "/assets/images/logo.png"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/bigOne.png"
 
 name: 'Dennis Coyle'
 author: 'Dennis Coyle'

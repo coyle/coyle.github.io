@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Iterate"
+date:   2014-05-13 12:00:00
+categories: life
+tags: 
+image: /assets/images/iterate.jpg
+---
+
+> “The way to get started is to quit talking and begin doing.” —Walt Disney
+
+It was a curse of mine to attempt perfection before I started anything. I would study, research, analyze and find every possible point of failure before I broke ground. Even after starting, at the first sign of difficulty, I would stop and begin the process again. This stop, analyze, start cycle would continue until I got frustrated at the lack of progress and threw in the towel on the whole idea. It took marrying my [wife](https://twitter.com/jesslcoyle) to kick me in the butt and out of my comfort zone. I didn't want to appear a quitter, so I would just quickly finish what I started, even if the result wasn't the picture of perfection I originally had in mind.
+
+Iteration has been a [popular](https://books.google.com/ngrams/graph?content=iterate&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Citerate%3B%2Cc0) word in the tech scene for quite awhile now and alot of great businesses have been built around the concept. Instead of the slow release cycle of a product, (think Windows Operating systems) where there is one release and nothing is updated until the next version. We now see weekly updates to Facebook, our iPhone apps, even our [cars](http://www.automobilemag.com/features/news/1402-tesla-ceo-elon-musk-townhall/). The reason behind this is, business leaders are able to see what succeeds in the market and what fails, easily dropping features and improving others, without a huge loss of time, money, or effort.
+
+The same concepts of iteration that have made [Google](http://www.thinkwithgoogle.com/articles/8-pillars-of-innovation.html), [Netflix](http://www.uie.com/brainsparks/2006/11/14/uietips-article-the-freedom-of-fast-iterations-how-netflix-designs-a-winning-web-site/) and [Pinterst](http://www.businessinsider.com/inside-pinterest-an-overnight-success-four-years-in-the-making-2012-4#!JTm4S) successful, can be applied to achieving personal goals, dieting, budgeting, studying, and just about any other area in your life. By just starting now and actively reflecting on what works and what doesn't, changing accordingly, and starting the process again, you can achieve better results faster than making perfection your goal.

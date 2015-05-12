@@ -2,13 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coyle</title>
-    <description>Essays about software, life and anything things
+    <description>Essays about software, life and interesting stuff
 </description>
     <link>http://coyle.io/</link>
     <atom:link href="http://coyle.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 10 May 2015 22:59:04 -0400</pubDate>
-    <lastBuildDate>Sun, 10 May 2015 22:59:04 -0400</lastBuildDate>
+    <pubDate>Mon, 11 May 2015 21:06:34 -0400</pubDate>
+    <lastBuildDate>Mon, 11 May 2015 21:06:34 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Culture of Success</title>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;Don&amp;#39;t tell people how to do things, tell them what to do and let them surprise you with their results.
+-- George S. Patton&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The common paradigm for success, especially in corporate America, is to work your way up the ladder. On the way up the ladder you out maneuver your fellow ladder climbers, amassing two-faced relationships, and knowledge of how the system works. This knowledge becomes the managers most prized possesion. By keeping their knowledge secret, they make it more difficult on the next crop of climbers, thereby securing their relative position on the ladder.&lt;/p&gt;
+
+&lt;p&gt;By aligning individual&amp;#39;s definition of success with that of the company, startups completely change the incentive structure for the organization. Success in the startup is based solely on an individual&amp;#39;s results. The expectations are clearly set and the vaugeness of the task removed. How the task is accomplished, whether you come in at 6:00am or 3:00pm to acomplish the task, or decide to accomplish it next to the pool is irrelevent. Results are the only metric that a member of the team is judged.&lt;/p&gt;
+
+&lt;p&gt;The amazing side effect of linking individuals success by their results, knowledge is no longer coveted as a way to keep your job. Information of how to accomplish a task is freely shared because it no longer hurts the knowledge holder to release what they know. By removing the politcal nature of ladder climbing and replacing it with a culture of rewards for results, a company can easily act as a single being, organicaly moving towards the same goal.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 May 2014 08:00:00 -0400</pubDate>
+        <link>http://coyle.io/life/2014/05/27/culture-of-success.html</link>
+        <guid isPermaLink="true">http://coyle.io/life/2014/05/27/culture-of-success.html</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
+    
+      <item>
+        <title>Iterate</title>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;“The way to get started is to quit talking and begin doing.” —Walt Disney&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It was a curse of mine to attempt perfection before I started anything. I would study, research, analyze and find every possible point of failure before I broke ground. Even after starting, at the first sign of difficulty, I would stop and begin the process again. This stop, analyze, start cycle would continue until I got frustrated at the lack of progress and threw in the towel on the whole idea. It took marrying my &lt;a href=&quot;https://twitter.com/jesslcoyle&quot;&gt;wife&lt;/a&gt; to kick me in the butt and out of my comfort zone. I didn&amp;#39;t want to appear a quitter, so I would just quickly finish what I started, even if the result wasn&amp;#39;t the picture of perfection I originally had in mind.&lt;/p&gt;
+
+&lt;p&gt;Iteration has been a &lt;a href=&quot;https://books.google.com/ngrams/graph?content=iterate&amp;amp;year_start=1800&amp;amp;year_end=2000&amp;amp;corpus=15&amp;amp;smoothing=3&amp;amp;share=&amp;amp;direct_url=t1%3B%2Citerate%3B%2Cc0&quot;&gt;popular&lt;/a&gt; word in the tech scene for quite awhile now and alot of great businesses have been built around the concept. Instead of the slow release cycle of a product, (think Windows Operating systems) where there is one release and nothing is updated until the next version. We now see weekly updates to Facebook, our iPhone apps, even our &lt;a href=&quot;http://www.automobilemag.com/features/news/1402-tesla-ceo-elon-musk-townhall/&quot;&gt;cars&lt;/a&gt;. The reason behind this is, business leaders are able to see what succeeds in the market and what fails, easily dropping features and improving others, without a huge loss of time, money, or effort.&lt;/p&gt;
+
+&lt;p&gt;The same concepts of iteration that have made &lt;a href=&quot;http://www.thinkwithgoogle.com/articles/8-pillars-of-innovation.html&quot;&gt;Google&lt;/a&gt;, &lt;a href=&quot;http://www.uie.com/brainsparks/2006/11/14/uietips-article-the-freedom-of-fast-iterations-how-netflix-designs-a-winning-web-site/&quot;&gt;Netflix&lt;/a&gt; and &lt;a href=&quot;http://www.businessinsider.com/inside-pinterest-an-overnight-success-four-years-in-the-making-2012-4#!JTm4S&quot;&gt;Pinterst&lt;/a&gt; successful, can be applied to achieving personal goals, dieting, budgeting, studying, and just about any other area in your life. By just starting now and actively reflecting on what works and what doesn&amp;#39;t, changing accordingly, and starting the process again, you can achieve better results faster than making perfection your goal.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 May 2014 08:00:00 -0400</pubDate>
+        <link>http://coyle.io/life/2014/05/13/iterate.html</link>
+        <guid isPermaLink="true">http://coyle.io/life/2014/05/13/iterate.html</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
+    
+      <item>
+        <title>Change</title>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;“The Only Thing That Is Constant Is Change.” ―Heraclitus&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The above quote has never held more truth than it has the preceding three years of my life. I married my best friend, graduated college, moved five times, worked at four different companies and am now expecting a child. The person I am today, would be unrecognizable to the person I was only three years ago.&lt;/p&gt;
+
+&lt;p&gt;Accepting and welcoming change with open arms was a definite paradigm shift. Yet, through all of the events of the last few years, I would say it is the top skill I have acquired.&lt;/p&gt;
+
+&lt;p&gt;Change is an ever present component of the tech startup community. Noticing something that needs to be changed and changing it, is the very essence of what creates value for startups. Manual processes and tasks that are being done by people, that continue to do them the same way because, &amp;quot;that&amp;#39;s the way it&amp;#39;s done&amp;quot;, are the people corporate America are built by. Assembly line workers, that come to work at 9am, do their specific tasks until 5pm, Monday-Friday, fifty weeks a year, until they retire and get that gold watch for their years of loyalty.&lt;/p&gt;
+
+&lt;p&gt;Embracing change, asking how can I do this better?, How can I do this more efficiently, and best of all, How can I leverage technology to not do this at all?, is the defining characteristic of the Entrepreneur. In a tech startup, the entire team needs to value change, if they are to survive. Pivoting quickly and changing direction midstream, is what allows the startup to out maneuver the big players. If even one team member doesn&amp;#39;t like change and fights changing, it will slow down growth and could cause the startup itself to be out maneuvered.&lt;/p&gt;
+
+&lt;p&gt;Learn to love change, see change as valuable and leverage change to grow.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 May 2014 08:00:00 -0400</pubDate>
+        <link>http://coyle.io/life/2014/05/03/change.html</link>
+        <guid isPermaLink="true">http://coyle.io/life/2014/05/03/change.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>life</category>
+        
+      </item>
     
   </channel>
 </rss>
