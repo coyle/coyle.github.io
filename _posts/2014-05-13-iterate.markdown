@@ -3,7 +3,8 @@ layout: post
 title:  "Iterate"
 date:   2014-05-13 12:00:00
 categories: life
-tags: 
+tags:
+comments: true
 image: /assets/images/iterate.jpg
 ---
 

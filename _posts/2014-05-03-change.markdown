@@ -4,6 +4,7 @@ title:  "Change"
 date:   2014-05-03 12:00:00
 categories: life
 tags: featured
+comments: true
 image: /assets/images/computers.jpg
 ---
 

@@ -4,6 +4,7 @@ title:  "Culture of Success"
 date:   2014-05-27 12:00:00
 categories: life
 tags: 
+comments: true
 image: /assets/images/success.jpg
 ---
 
