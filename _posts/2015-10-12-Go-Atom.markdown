@@ -44,6 +44,7 @@ This package also provides a Sublime feature I need in any editor I use, the abi
 
 #### Configuration
 
+
 ##### Snippets
 Atom gives you the ability to provide "snippets", short key words that will auto complete into larger snips of code.
 In the top bar go to Atom -> Open your snippets
@@ -64,6 +65,7 @@ The line ```'prefix': 'ern'``` is the short code, that when typed, will provide 
 The ```$1``` in the body value, will determine where the cursor goes after autocompletion.
 
 ##### Styling
+
 
 Atom uses CSS to style the editor. If you know CSS, this gives you full configurability over how the editor appears.
 
@@ -99,4 +101,6 @@ If you haven't installed [Hack](http://sourcefoundry.org/hack/) as a font on you
 
 
 #### Conclusion
+
+
 Overall, I am extremely pleased with Atom. While I am sure I have not begun to fully tap into the power of the editor, the little bit I have done has made my job easier and sped up my Go development time. If you decide to give Atom a try and learn some cool features, please add them into the comments below.
