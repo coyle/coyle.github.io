@@ -40,7 +40,7 @@ In sublime, when you highlight a word, it also highlights all other occurrences 
 ##### [Sublime Style Column Selection](https://atom.io/packages/Sublime-Style-Column-Selection)
 This package also provides a Sublime feature I need in any editor I use, the ability to do column selection.
 
-![column selection](../assets/images/column-selection.png)
+![column selection](/assets/images/column-selection.png)
 
 #### Configuration
 
