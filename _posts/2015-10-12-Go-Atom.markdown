@@ -15,7 +15,7 @@ Ever since graduating from college and ditching VIM, I have used Sublime as my s
 
 #### Packages
 
-
+  
 ##### [Dash](https://atom.io/packages/dash)
 [Dash](https://kapeli.com/dash) is an amazing application for Mac OS X that provides you offline access to over 150 API docs. I had heard of it in the past but didn't necessarily see the point in using it when I could just use my browser. [Atom's integration with Dash](https://atom.io/packages/dash) was by far my favorite feature. When you forget what the http.Request struct contains, you just move your cursor to Request and press ctrl-h. Dash then brings up the official Go documentation for http.Request. This saves a lot of time jumping between the browser and my editor and helps me to stay focused on what I am doing.
 
@@ -43,8 +43,6 @@ This package also provides a Sublime feature I need in any editor I use, the abi
 ![column selection](/assets/images/column-selection.png)
 
 #### Configuration
-
-
 
 
 ##### Snippets
