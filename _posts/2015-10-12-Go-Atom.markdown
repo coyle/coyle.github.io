@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setting up your Go IDE with Atom"
-date:   2015-10-12 12:00:00
+date:   2015-01-07 12:00:00
 categories: Golang
 tags:
 comments: true
@@ -15,7 +15,8 @@ Ever since graduating from college and ditching VIM, I have used Sublime as my s
 
 #### Packages
 
-##### [dash](https://atom.io/packages/dash)
+
+##### [Dash](https://atom.io/packages/dash)
 [Dash](https://kapeli.com/dash) is an amazing application for Mac OS X that provides you offline access to over 150 API docs. I had heard of it in the past but didn't necessarily see the point in using it when I could just use my browser. [Atom's integration with Dash](https://atom.io/packages/dash) was by far my favorite feature. When you forget what the http.Request struct contains, you just move your cursor to Request and press ctrl-h. Dash then brings up the official Go documentation for http.Request. This saves a lot of time jumping between the browser and my editor and helps me to stay focused on what I am doing.
 
 ##### [Go Oracle](https://atom.io/packages/go-oracle)
@@ -95,3 +96,7 @@ Below is my styling, that adjusts the side bar to give a similar look to Sublime
 ```
 
 If you haven't installed [Hack](http://sourcefoundry.org/hack/) as a font on your computer, you might need to change the font font-family to something different.
+
+
+#### Conclusion
+Overall, I am extremely pleased with Atom. While I am sure I have not begun to fully tap into the power of the editor, the little bit I have done has made my job easier and sped up my Go development time. If you decide to give Atom a try and learn some cool features, please add them into the comments below.
