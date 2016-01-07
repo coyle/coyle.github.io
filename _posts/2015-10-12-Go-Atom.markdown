@@ -45,6 +45,8 @@ This package also provides a Sublime feature I need in any editor I use, the abi
 #### Configuration
 
 
+
+
 ##### Snippets
 Atom gives you the ability to provide "snippets", short key words that will auto complete into larger snips of code.
 In the top bar go to Atom -> Open your snippets
