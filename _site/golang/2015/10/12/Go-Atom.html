@@ -7,7 +7,7 @@
   <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Culture of Success</title>
+  <title>Setting up your Go IDE with Atom</title>
   <meta name="description" content="Essays about software, life and interesting stuff
 " />
 
@@ -16,7 +16,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-  <link rel="canonical" href="http://coyle.io/life/2014/05/27/culture-of-success.html">
+  <link rel="canonical" href="http://coyle.io/golang/2015/10/12/Go-Atom.html">
 
   <link rel="shortcut icon" href="/assets/images/favicon.ico">
 <!--  <link rel="stylesheet" href=""> -->
@@ -51,16 +51,16 @@
       <article class="post">
         
         <div class="article-image">
-          <div class="post-image-image" style="background-image: url(/assets/images/success.jpg)">
+          <div class="post-image-image" style="background-image: url(/assets/images/atom.png)">
             Article Image
           </div>
           <div class="post-meta">
-            <h1 class="post-title">Culture of Success</h1>
+            <h1 class="post-title">Setting up your Go IDE with Atom</h1>
             <div class="cf post-meta-text">
               <div class="author-image" style="background-image: url(/assets/images/author.png)">Blog Logo</div>
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">Dennis Coyle</h4>
               on
-              <time datetime="2014-05-27 08:00">27 May 2014</time>
+              <time datetime="2015-10-12 08:00">12 Oct 2015</time>
               <!-- , tagged on <span class="post-tag-">, <a href="/tag/"></a></span> -->
             </div>
             <div style="text-align:center">
@@ -75,15 +75,33 @@
           </div>
           <a name="topofpage"></a>
           <blockquote>
-<p>Don&#39;t tell people how to do things, tell them what to do and let them surprise you with their results.
--- George S. Patton</p>
+<p>“Never too old, never too bad, never too late, never too sick to start from scratch once again.” -Bikram Choudhury.</p>
 </blockquote>
 
-<p>The common paradigm for success, especially in corporate America, is to work your way up the ladder. On the way up the ladder you out maneuver your fellow ladder climbers, amassing two-faced relationships, and knowledge of how the system works. This knowledge becomes the managers most prized possesion. By keeping their knowledge secret, they make it more difficult on the next crop of climbers, thereby securing their relative position on the ladder.</p>
+<p>Ever since graduating from college and ditching VIM, I have used Sublime as my sole development environment. Sublime has been with me through multiples jobs, languages and has been one of the few consistencies in my career. The last few months at Yik Yak I have been writing a lot of Golang code. The language is minimal, elegant and for such a young language, has incredible tooling. As spectacular as my experience has been with the language, I have had one nagging irritation, my beloved Sublime. The plugin for Sublime <a href="https://github.com/DisposaBoy/GoSublime">(GoSublime)</a> had some nice features and after setting up my user settings development wasn&#39;t bad; it just wasn&#39;t good. So I decided to start shopping around for a better Go development tool. I gave four &quot;IDEs&quot; a week each; VIM, IntelliJ, LiteIDE and Atom. The point in this blog post isn&#39;t to do a compare and contrast of my experiences with these tools but to instead walk you through setting up and using the winner Atom.</p>
 
-<p>By aligning individual&#39;s definition of success with that of the company, startups completely change the incentive structure for the organization. Success in the startup is based solely on an individual&#39;s results. The expectations are clearly set and the vaugeness of the task removed. How the task is accomplished, whether you come in at 6:00am or 3:00pm to acomplish the task, or decide to accomplish it next to the pool is irrelevent. Results are the only metric that a member of the team is judged.</p>
+<h4>Packages</h4>
 
-<p>The amazing side effect of linking individuals success by their results, knowledge is no longer coveted as a way to keep your job. Information of how to accomplish a task is freely shared because it no longer hurts the knowledge holder to release what they know. By removing the politcal nature of ladder climbing and replacing it with a culture of rewards for results, a company can easily act as a single being, organicaly moving towards the same goal.</p>
+<h5><a href="https://atom.io/packages/dash">dash</a></h5>
+
+<p><a href="https://kapeli.com/dash">Dash</a> is an amazing application for Mac OS X that provides you offline access to over 150 API docs. I had heard of it in the past but didn&#39;t necessarily see the point in using it when I could just use my browser. <a href="https://atom.io/packages/dash">Atom&#39;s integration with Dash</a> was by far my favorite feature. When you forget what the http.Request struct contains, you just move your cursor to Request and press ctrl-h. Dash then brings up the official Go documentation for http.Request. This saves me a lot of time jumping between the browser and my editor and helps me to stay focused on what I am doing.</p>
+
+<h5><a href="https://atom.io/packages/go-oracle">go-oracle</a></h5>
+
+<p>Oracle is a tool for answering questions about Go source code. Specifically, it answers the questions:
+..* What interfaces does this type satisfy?
+..* Where are the references to this identifier?
+..* What objects might this pointer point to?
+..* Where will a value sent on this channel be received?
+The tool is extremely useful when looking through someone else&#39;s code or any code base where you need a refresher of what&#39;s going on.</p>
+
+<h5>fonts</h5>
+
+<h5>git-plus</h5>
+
+<h5>go-plus</h5>
+
+<h5>language-protobuf</h5>
 
           
             <div id="disqus_thread"></div>
@@ -107,7 +125,7 @@
           <section class="share">
             
               
-                <a class="icon-twitter" href="http://twitter.com/share?text=Culture+of+Success&amp;url=http://coyle.io/life/2014/05/27/culture-of-success"
+                <a class="icon-twitter" href="http://twitter.com/share?text=Setting+up+your+Go+IDE+with+Atom&amp;url=http://coyle.io/golang/2015/10/12/Go-Atom"
                   onclick="window.open(this.href, 'twitter-share', 'width=550,height=255');return false;">
                 <i class="fa fa-twitter"></i><span class="hidden">twitter</span>
                 </a>
@@ -127,7 +145,7 @@
               <h4>Dennis Coyle</h4>
               <p class="bio"></p>
               <hr>
-              <p class="published">Published <time datetime="2014-05-27 08:00">27 May 2014</time></p>
+              <p class="published">Published <time datetime="2015-10-12 08:00">12 Oct 2015</time></p>
             </section>
           </div>
           

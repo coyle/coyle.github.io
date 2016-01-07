@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "Setting up your Go IDE with Atom"
+date:   2015-10-12 12:00:00
+categories: Golang
+tags:
+comments: true
+image: /assets/images/atom.png
+---
+>“Never too old, never too bad, never too late, never too sick to start from scratch once again.” -Bikram Choudhury.
+
+Ever since graduating from college and ditching VIM, I have used Sublime as my sole development environment. Sublime has been with me through multiples jobs, languages and has been one of the few consistencies in my career. The last few months at Yik Yak I have been writing a lot of Golang code. The language is minimal, elegant and for being "young", has incredible tooling. As spectacular the experience has been with the language, I have had one nagging irritation, Sublime. The Go plugin for Sublime [(GoSublime)](https://github.com/DisposaBoy/GoSublime) has some nice features and after setting up my user settings development wasn't bad; it just wasn't good. So I decided to start shopping around for a better Go development tool. I gave four "IDEs" a week each; VIM, IntelliJ, LiteIDE and Atom. The point of this blog post isn't to do a compare and contrast of my experiences with these tools but to instead walk you through setting up and using the winner Atom.
+
+
+
+#### Packages
+
+##### [dash](https://atom.io/packages/dash)
+[Dash](https://kapeli.com/dash) is an amazing application for Mac OS X that provides you offline access to over 150 API docs. I had heard of it in the past but didn't necessarily see the point in using it when I could just use my browser. [Atom's integration with Dash](https://atom.io/packages/dash) was by far my favorite feature. When you forget what the http.Request struct contains, you just move your cursor to Request and press ctrl-h. Dash then brings up the official Go documentation for http.Request. This saves a lot of time jumping between the browser and my editor and helps me to stay focused on what I am doing.
+
+##### [Go Oracle](https://atom.io/packages/go-oracle)
+Oracle is a tool for answering questions about Go source code. i.e.
+..* What interfaces does this type satisfy?
+..* Where are the references to this identifier?
+..* What objects might this pointer point to?
+..* Where will a value sent on this channel be received?
+The tool is extremely useful when looking through someone else's code or any code base where you need a refresher of what's going on.
+
+##### [Git Plus](https://atom.io/packages/git-plus)
+Since Atom was built by github it is no surprise there are some awesome git integrations built into the editor. the git-plus package is the most popular and makes it unnecessary for me to go to the terminal to push, pull, commit or any of the numerous git commands I do on a regular basis.
+
+##### [Go Plus](https://atom.io/packages/go-plus)
+The Go-Plus package provides autocompletion, formatting, linting, code quality inspection, and a few other IDE like features.
+My biggest complaint about this package is the need to open atom via the terminal to get the package working correctly.
+
+##### [Highlight Selected](https://atom.io/packages/highlight-selected)
+In sublime, when you highlight a word, it also highlights all other occurrences within the file. Atom by default does not do this so if you want that behavior, this package will provide it.
+
+##### [Sublime Style Column Selection](https://atom.io/packages/Sublime-Style-Column-Selection)
+This package also provides a Sublime feature I need in any editor I use, the ability to do column selection.
+
+![column selection](../assets/images/column-selection.png)
+
+#### Configuration
+
+##### Snippets
+Atom gives you the ability to provide "snippets", short key words that will auto complete into larger snips of code.
+In the top bar go to Atom -> Open your snippets
+
+Below the comments in the file paste the following code:
+```
+'.source.go':
+  'if err != nil':
+    'prefix': 'ern'
+    'body': 'if err != nil {\n\t$1\n}'
+```
+
+The first line, ```'.source.go':``` tells Atom that the code following should be applied to all files ending in ```.go```.
+
+The line ```'if err != nil':``` is for your reference when looking through the file, this can be named anything that will help you find your snippets as this file grows.
+
+The line ```'prefix': 'ern'``` is the short code, that when typed, will provide autocompletion for ```'body': 'if err != nil {\n\t$1\n}'```
+The ```$1``` in the body value, will determine where the cursor goes after autocompletion.
+
+##### Styling
+
+Atom uses CSS to style the editor. If you know CSS, this gives you full configurability over how the editor appears.
+
+To style Atom Go to ```Atom -> Open Your Stylesheet```
+
+Below is my styling, that adjusts the side bar to give a similar look to Sublime
+
+```
+.tree-view {
+  font-family: "Hack";
+  font-size: 12px;
+}
+
+.list-group li:not(.list-nested-item),
+.list-tree li:not(.list-nested-item),
+.list-group li.list-nested-item > .list-item,
+.list-tree li.list-nested-item > .list-item {
+    line-height:18px;
+}
+
+.list-group .selected:before,
+.list-tree .selected:before {
+    height:18px;
+}
+
+.list-tree.has-collapsable-children .list-nested-item > .list-tree > li,
+.list-tree.has-collapsable-children .list-nested-item > .list-group > li {
+    padding-left:12px;
+}
+```
+
+If you haven't installed [Hack](http://sourcefoundry.org/hack/) as a font on your computer, you might need to change the font font-family to something different.

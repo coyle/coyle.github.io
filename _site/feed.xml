@@ -6,9 +6,49 @@
 </description>
     <link>http://coyle.io/</link>
     <atom:link href="http://coyle.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 May 2015 20:31:39 -0400</pubDate>
-    <lastBuildDate>Tue, 12 May 2015 20:31:39 -0400</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2015 17:15:01 -0400</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2015 17:15:01 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Setting up your Go IDE with Atom</title>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;“Never too old, never too bad, never too late, never too sick to start from scratch once again.” -Bikram Choudhury.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ever since graduating from college and ditching VIM, I have used Sublime as my sole development environment. Sublime has been with me through multiples jobs, languages and has been one of the few consistencies in my career. The last few months at Yik Yak I have been writing a lot of Golang code. The language is minimal, elegant and for such a young language, has incredible tooling. As spectacular as my experience has been with the language, I have had one nagging irritation, my beloved Sublime. The plugin for Sublime &lt;a href=&quot;https://github.com/DisposaBoy/GoSublime&quot;&gt;(GoSublime)&lt;/a&gt; had some nice features and after setting up my user settings development wasn&amp;#39;t bad; it just wasn&amp;#39;t good. So I decided to start shopping around for a better Go development tool. I gave four &amp;quot;IDEs&amp;quot; a week each; VIM, IntelliJ, LiteIDE and Atom. The point in this blog post isn&amp;#39;t to do a compare and contrast of my experiences with these tools but to instead walk you through setting up and using the winner Atom.&lt;/p&gt;
+
+&lt;h4&gt;Packages&lt;/h4&gt;
+
+&lt;h5&gt;&lt;a href=&quot;https://atom.io/packages/dash&quot;&gt;dash&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kapeli.com/dash&quot;&gt;Dash&lt;/a&gt; is an amazing application for Mac OS X that provides you offline access to over 150 API docs. I had heard of it in the past but didn&amp;#39;t necessarily see the point in using it when I could just use my browser. &lt;a href=&quot;https://atom.io/packages/dash&quot;&gt;Atom&amp;#39;s integration with Dash&lt;/a&gt; was by far my favorite feature. When you forget what the http.Request struct contains, you just move your cursor to Request and press ctrl-h. Dash then brings up the official Go documentation for http.Request. This saves me a lot of time jumping between the browser and my editor and helps me to stay focused on what I am doing.&lt;/p&gt;
+
+&lt;h5&gt;&lt;a href=&quot;https://atom.io/packages/go-oracle&quot;&gt;go-oracle&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Oracle is a tool for answering questions about Go source code. Specifically, it answers the questions:
+..* What interfaces does this type satisfy?
+..* Where are the references to this identifier?
+..* What objects might this pointer point to?
+..* Where will a value sent on this channel be received?
+The tool is extremely useful when looking through someone else&amp;#39;s code or any code base where you need a refresher of what&amp;#39;s going on.&lt;/p&gt;
+
+&lt;h5&gt;fonts&lt;/h5&gt;
+
+&lt;h5&gt;git-plus&lt;/h5&gt;
+
+&lt;h5&gt;go-plus&lt;/h5&gt;
+
+&lt;h5&gt;language-protobuf&lt;/h5&gt;
+</description>
+        <pubDate>Mon, 12 Oct 2015 08:00:00 -0400</pubDate>
+        <link>http://coyle.io/golang/2015/10/12/Go-Atom.html</link>
+        <guid isPermaLink="true">http://coyle.io/golang/2015/10/12/Go-Atom.html</guid>
+        
+        
+        <category>golang</category>
+        
+      </item>
     
       <item>
         <title>Culture of Success</title>
